@@ -20,9 +20,9 @@ Gentoo Linux + Hyprland rice
 
 Clone the repo and copy configs:
 
-\```bash
+
 git clone https://github.com/Zavrethx/My-own-Hyprland-dotfiles.git
+
 cp -r My-own-Hyprland-dotfiles/.config ~/.config
-\```
 
 ![screenshot](screenshots/2026-05-25-135339_hyprshot.png)
